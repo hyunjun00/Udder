@@ -16,6 +16,7 @@ struct ContentView: View {
             Text("Fresh Milk, On Demand.")
         }
         Spacer()
+        Circle()
     }
 }
 
